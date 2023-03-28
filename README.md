@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Navneet Verma</h1>
 <h3 align="center">A Student from Herald College Kathmandu.</h3>
+<p>Greetings and salutations, lovely people of the coding world! I am Navneet Verma, currently embarking on a journey towards a Bachelor's degree in Computer Science at the esteemed Herald College of Kathmandu, affiliated with the University of Wolverhampton in the UK.
+
+I'm the kind of person who lives and breathes Artificial Intelligence and machine learning, always striving to learn more about this endlessly fascinating field. When I'm not tinkering with AI models, you can find me flexing my coding muscles in Java, Python, HTML, CSS, and JavaScript.
+
+As much as I enjoy working on these topics, I know that great things can only be accomplished by working with others. That's why I'm always on the lookout for opportunities to collaborate with like-minded individuals who share my passion for programming and AI.
+
+So, if you're interested in chatting about AI, machine learning, or any of the programming languages I'm familiar with, please don't hesitate to reach out to me on Instagram (@nav.neet_22). Let's make some magic happen!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navn-eet&label=Profile%20views&color=0e75b6&style=flat" alt="navn-eet" /> </p>
 
@@ -9,7 +16,7 @@
 
 - 🌱 I’m currently learning **Python, HTML & CSS, Javascript**
 
-- 🤝 I’m looking for help with **Learning.**
+- 🤝 I’m looking for help with **Mentorship**
 
 - 📫 How to reach me **vnavneet631@gmail.com**
 
