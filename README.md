@@ -30,6 +30,4 @@ So, if you're interested in chatting about AI, machine learning, or any of the p
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navn-eet&show_icons=true&locale=en&layout=compact" alt="navn-eet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navn-eet&show_icons=true&locale=en" alt="navn-eet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navn-eet&" alt="navn-eet" /></p>
