@@ -12,7 +12,7 @@ So, if you're interested in chatting about AI, machine learning, or any of the p
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navn-eet" alt="navn-eet" /></a> </p>
 
-- 🔭 I’m currently working on [ClimeMate](https://github.com/Navn-eet/ClimeMate)
+- 🔭 I’m currently working on MentorAIx
 
 - 🌱 I’m currently learning **Full stack development**
 
