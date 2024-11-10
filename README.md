@@ -14,7 +14,7 @@ So, if you're interested in chatting about AI, machine learning, or any of the p
 
 - 🔭 I’m currently working on [ClimeMate](https://github.com/Navn-eet/ClimeMate)
 
-- 🌱 I’m currently learning **Python, HTML & CSS, Javascript**
+- 🌱 I’m currently learning **Full stack development**
 
 - 🤝 I’m looking for help with **Mentorship**
 
@@ -22,7 +22,7 @@ So, if you're interested in chatting about AI, machine learning, or any of the p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/nav-neet_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nav-neet_22" height="30" width="40" /></a>
+<a href="https://instagram.com/nav.neet_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nav-neet_22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
