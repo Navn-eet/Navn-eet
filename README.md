@@ -22,100 +22,46 @@ Full Stack · Backend · Infrastructure · DevOps
 
 I'm a Computer Science student and Software Engineer with around 3 years of experience building, testing, deploying, and maintaining full-stack web applications and backend systems.
 
-My strongest focus is backend engineering, databases, distributed systems, infrastructure, and DevOps. I also work across the frontend when building complete products, taking systems from application interfaces and APIs through background processing, deployment, debugging, and production maintenance.
+My strongest focus is backend engineering, databases, distributed systems, infrastructure, and DevOps. I also work across the frontend when building complete products, taking systems from application interfaces and APIs through backend services, background processing, deployment, debugging, and production maintenance.
 
 I enjoy working on systems where application architecture, data integrity, reliability, and operational concerns come together.
 
 <br>
 
-## Engineering
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages**  
+TypeScript · JavaScript · SQL
 
-### Backend
+**Frontend**  
+React · Next.js · HTML5 · CSS3 · Tailwind CSS
 
-TypeScript  
-Node.js  
-NestJS  
-REST APIs  
-Webhooks  
-Background Processing  
-Distributed Systems
+**Backend**  
+Node.js · NestJS · REST APIs · Webhooks · Server-Side Applications · Swagger / OpenAPI
 
-</td>
-<td width="50%" valign="top">
+**Databases**  
+PostgreSQL · MongoDB · Redis · Drizzle ORM · Database Modeling · Query Optimization
 
-### Data
+**Distributed Systems**  
+BullMQ · Transactional Outbox · Dead Letter Queues · Event-Driven Systems · Background Jobs · Job Scheduling · Retries · Idempotency · Backpressure · Distributed Locks
 
-PostgreSQL  
-MongoDB  
-Redis  
-Drizzle ORM  
-Database Design  
-Query Optimization  
-Caching
+**Caching and Data Processing**  
+Redis Caching · Cache Invalidation · Deterministic Cache Keys · Streaming Pipelines · Batch Processing
 
-</td>
-</tr>
+**Infrastructure and DevOps**  
+Docker · Docker Compose · Linux · VPS · Nginx · SSL/TLS · DNS · Reverse Proxy · Server Configuration
 
-<tr>
-<td width="50%" valign="top">
+**CI/CD and Testing**  
+GitLab CI/CD · Jest · Unit Testing · Integration Testing · End-to-End Testing · Database Testing · SQL Constraint Testing
 
-### Infrastructure
+**Cloud and Integrations**  
+S3-Compatible Storage · Firebase FCM · Resend · SMTP · SMS Gateways · Third-Party APIs
 
-Docker  
-Docker Compose  
-Linux  
-VPS  
-Nginx  
-SSL/TLS  
-DNS  
-Reverse Proxy
+**CMS and Documentation**  
+Payload CMS · Fumadocs · SEO · Content Management Systems · Web Analytics · A/B Testing
 
-</td>
-<td width="50%" valign="top">
-
-### Reliability
-
-BullMQ  
-Transactional Outbox  
-Dead Letter Queues  
-Retries  
-Idempotency  
-Distributed Locks  
-Backpressure
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-React  
-Next.js  
-HTML  
-CSS  
-Tailwind CSS
-
-</td>
-<td width="50%" valign="top">
-
-### Testing & APIs
-
-Jest  
-Unit Testing  
-Integration Testing  
-End-to-End Testing  
-Database Testing  
-Swagger / OpenAPI
-
-</td>
-</tr>
-</table>
+**Computer Science**  
+Data Structures and Algorithms · Database Systems · Software Architecture
 
 <br>
 
@@ -131,60 +77,11 @@ Swagger / OpenAPI
 
 <br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity">
-
-</div>
-
-<br>
-
-## Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Backend**
-
-APIs  
-Services  
-Architecture  
-Integrations
-
-</td>
-<td align="center" width="25%">
-
-**Data**
-
-PostgreSQL  
-Redis  
-MongoDB  
-Data Integrity
-
-</td>
-<td align="center" width="25%">
-
-**Systems**
-
-Queues  
-Workers  
-Caching  
-Distributed Processing
-
-</td>
-<td align="center" width="25%">
-
-**Infrastructure**
-
-Docker  
-Linux  
-Nginx  
-CI/CD
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity">
+</picture>
 
 <br>
 
