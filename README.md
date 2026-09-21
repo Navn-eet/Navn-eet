@@ -1,10 +1,10 @@
 <div align="center">
 
-# Navneet Verma
+# NAVNEET VERMA
 
 ### Software Engineer
 
-Full Stack · Backend · Infrastructure · DevOps
+**Backend · Distributed Systems · Infrastructure · DevOps**
 
 <br>
 
@@ -16,117 +16,196 @@ Full Stack · Backend · Infrastructure · DevOps
 
 <br>
 
-## About
-
-I'm a Computer Science student and Software Engineer with around 3 years of experience building, testing, deploying, and maintaining full-stack web applications and backend systems.
-
-My strongest focus is backend engineering, databases, distributed systems, infrastructure, and DevOps. I also work across the frontend when building complete products, taking systems from application interfaces and APIs through backend services, background processing, deployment, debugging, and production maintenance.
-
-I enjoy working on systems where application architecture, data integrity, reliability, and operational concerns come together.
+---
 
 <br>
 
-## Technical Skills
+<div align="center">
 
-### Languages
+### Building software from application code to production infrastructure.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="SQL / PostgreSQL" title="SQL / PostgreSQL">
-</p>
+<br>
 
-### Frontend
+I work primarily on backend systems, databases, distributed processing, <br>
+infrastructure, integrations, and the systems that keep applications running reliably.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS">
-</p>
+</div>
 
-### Backend
+<br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS">
-</p>
+---
 
-REST APIs · Webhooks · Server-Side Applications · Swagger / OpenAPI
+## What I Work With
 
-### Databases
+<br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drizzle/drizzle-original.svg" width="42" height="42" alt="Drizzle ORM" title="Drizzle ORM">
-</p>
+<div align="center">
 
-Database Modeling · Query Optimization
+### BUILD
 
-### Distributed Systems
+<br>
 
-BullMQ · Transactional Outbox · Dead Letter Queues · Event-Driven Systems · Background Jobs · Job Scheduling · Retries · Idempotency · Backpressure · Distributed Locks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js">
 
-### Caching and Data Processing
+<br><br>
 
-Redis Caching · Cache Invalidation · Deterministic Cache Keys · Streaming Pipelines · Batch Processing
+<sub>TypeScript · JavaScript · Node.js · NestJS · React · Next.js</sub>
 
-### Infrastructure and DevOps
+<br><br><br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="42" height="42" alt="Nginx" title="Nginx">
-</p>
+### DATA
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drizzle/drizzle-original.svg" width="48" height="48" alt="Drizzle ORM" title="Drizzle ORM">
+
+<br><br>
+
+<sub>PostgreSQL · MongoDB · Redis · Drizzle ORM · SQL</sub>
+
+<br><br><br>
+
+### RUN
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" title="GitLab">
+
+<br><br>
+
+<sub>Docker · Docker Compose · Linux · VPS · Nginx · GitLab CI/CD</sub>
+
+</div>
+
+<br>
+
+---
+
+## Systems
+
+I work with the parts of an application that become important once there is real
+data, background work, failures, and production infrastructure involved.
+
+<br>
+
+**Distributed Processing**
+
+`BullMQ` · `Transactional Outbox` · `Dead Letter Queues` · `Event-Driven Systems`
+
+**Reliability**
+
+`Retries` · `Idempotency` · `Backpressure` · `Distributed Locks` · `Job Scheduling`
+
+**Data & Performance**
+
+`Database Modeling` · `Query Optimization` · `Redis Caching` · `Cache Invalidation`
+
+**Application**
+
+`REST APIs` · `Webhooks` · `Server-Side Applications` · `Third-Party Integrations`
+
+**Testing**
+
+`Jest` · `Unit Testing` · `Integration Testing` · `End-to-End Testing` · `Database Testing`
+
+<br>
+
+---
+
+## Infrastructure
+
+<div align="center">
+
+```text
+Application
+     │
+     ├──────────── API
+     │
+     ├──────────── Background Workers
+     │
+     ├──────────── Queues & Events
+     │
+     └──────────── Integrations
+                    │
+              ┌─────┴─────┐
+              │           │
+          PostgreSQL     Redis
+              │           │
+              └─────┬─────┘
+                    │
+                 Docker
+                    │
+              Linux / VPS
+                    │
+              Nginx / SSL
+                    │
+                Production
+```
+
+</div>
 
 Docker · Docker Compose · Linux · VPS · Nginx · SSL/TLS · DNS · Reverse Proxy · Server Configuration
 
-### CI/CD and Testing
+<br>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="42" height="42" alt="GitLab CI/CD" title="GitLab CI/CD">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="42" height="42" alt="Jest" title="Jest">
-</p>
+---
 
-GitLab CI/CD · Jest · Unit Testing · Integration Testing · End-to-End Testing · Database Testing · SQL Constraint Testing
+## More in the Stack
 
-### Cloud and Integrations
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" title="Firebase">
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="38" height="38" alt="Jest" title="Jest">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" title="Firebase">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/payload/payload-original.svg" width="38" height="38" alt="Payload CMS" title="Payload CMS">
 
-S3-Compatible Storage · Firebase FCM · Resend · SMTP · SMS Gateways · Third-Party APIs
+<br><br>
 
-### CMS and Documentation
+<sub>
+HTML5 · CSS3 · Tailwind CSS · Jest · Firebase FCM · Payload CMS
+</sub>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/payload/payload-original.svg" width="42" height="42" alt="Payload CMS" title="Payload CMS">
-</p>
+<br><br>
 
-Payload CMS · Fumadocs · SEO · Content Management Systems · Web Analytics · A/B Testing
+<sub>
+S3-Compatible Storage · Resend · SMTP · SMS Gateways · Fumadocs · SEO ·
+Content Management Systems · Web Analytics · A/B Testing
+</sub>
 
-### Computer Science
-
-Data Structures and Algorithms · Database Systems · Software Architecture
+</div>
 
 <br>
+
+---
 
 ## GitHub Activity
 
@@ -138,17 +217,21 @@ Data Structures and Algorithms · Database Systems · Software Architecture
 
 <br>
 
+---
+
 ## Education
 
 **BSc (Hons) Computer Science**
-Herald College Kathmandu — University of Wolverhampton
+Herald College Kathmandu · University of Wolverhampton
 Expected 2027
 
 <br>
 
----
-
 <div align="center">
+
+<a href="https://github.com/Navn-eet">github.com/Navn-eet</a>
+
+<br><br>
 
 <sub>Building reliable software from application code to production infrastructure.</sub>
 
