@@ -80,46 +80,88 @@
 
 <div align="center">
 
-### BUILD
+<table>
+<tr>
+<td align="center">
+<img src="./assets/icons/typescript.svg" width="48"><br>
+<sub>TypeScript</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/javascript.svg" width="48"><br>
+<sub>JavaScript</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/nodejs.svg" width="48"><br>
+<sub>Node.js</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/nestjs.svg" width="48"><br>
+<sub>NestJS</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/react.svg" width="48"><br>
+<sub>React</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/nextjs.svg" width="48"><br>
+<sub>Next.js</sub>
+</td>
+</tr>
 
-`TypeScript` · `JavaScript` · `Node.js` · `NestJS`  
-`React` · `Next.js` · `REST APIs` · `Webhooks`
+<tr>
+<td align="center">
+<img src="./assets/icons/postgresql.svg" width="48"><br>
+<sub>PostgreSQL</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/mongodb.svg" width="48"><br>
+<sub>MongoDB</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/redis.svg" width="48"><br>
+<sub>Redis</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/drizzle.svg" width="48"><br>
+<sub>Drizzle</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/docker.svg" width="48"><br>
+<sub>Docker</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/linux.svg" width="48"><br>
+<sub>Linux</sub>
+</td>
+</tr>
 
-<br>
-
-### DATA
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Drizzle ORM`  
-`Database Modeling` · `Query Optimization` · `SQL`
-
-<br>
-
-### DISTRIBUTED SYSTEMS
-
-`BullMQ` · `Transactional Outbox` · `Dead Letter Queues`  
-`Event-Driven Systems` · `Background Jobs` · `Retries`  
-`Idempotency` · `Backpressure` · `Distributed Locks`
-
-<br>
-
-### INFRASTRUCTURE
-
-`Docker` · `Docker Compose` · `Linux` · `VPS`  
-`Nginx` · `SSL/TLS` · `DNS` · `Reverse Proxy`
-
-<br>
-
-### CI/CD & TESTING
-
-`GitLab CI/CD` · `Jest` · `Unit Testing`  
-`Integration Testing` · `End-to-End Testing` · `Database Testing`
-
-<br>
-
-### INTEGRATIONS
-
-`S3-Compatible Storage` · `Firebase FCM` · `Resend`  
-`SMTP` · `SMS Gateways` · `Third-Party APIs`
+<tr>
+<td align="center">
+<img src="./assets/icons/nginx.svg" width="48"><br>
+<sub>Nginx</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/gitlab.svg" width="48"><br>
+<sub>GitLab</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/tailwindcss.svg" width="48"><br>
+<sub>Tailwind</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/jest.svg" width="48"><br>
+<sub>Jest</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/firebase.svg" width="48"><br>
+<sub>Firebase</sub>
+</td>
+<td align="center">
+<img src="./assets/icons/payload.svg" width="48"><br>
+<sub>Payload CMS</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
