@@ -19,7 +19,14 @@
 <line x1="20" y1="48" x2="980" y2="48"
       stroke="#30363D"/>
 
-<g transform="translate(25 65) scale(0.78)">
+<!-- ASCII portrait -->
+<svg x="25"
+     y="65"
+     width="450"
+     height="433.5"
+     viewBox="0 0 600 578"
+     preserveAspectRatio="xMidYMid meet">
+
 
 <rect width="100%" height="100%" fill="#0D1117"/>
 <g font-family="monospace" font-size="8px" font-weight="700" fill="#F0F6FC" xml:space="preserve">
@@ -93,9 +100,17 @@
 <text x="0" y="578.00">                                                                                                                             </text>
 </g>
 
-</g>
 
-<g transform="translate(500 75) scale(0.86)">
+</svg>
+
+<!-- Neofetch -->
+<svg x="500"
+     y="65"
+     width="450"
+     height="433.5"
+     viewBox="0 0 520 500"
+     preserveAspectRatio="xMidYMid meet">
+
 
 
 <style>
@@ -187,6 +202,7 @@
 </text>
 
 
-</g>
+
+</svg>
 
 </svg>

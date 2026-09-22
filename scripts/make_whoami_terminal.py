@@ -1,45 +1,34 @@
 from pathlib import Path
 import re
 
-portrait = Path("assets/portrait/portrait.svg").read_text()
-neofetch = Path("assets/cards/neofetch.svg").read_text()
-
-def inner(svg):
+def parse_svg(path):
+    svg = Path(path).read_text()
     svg = re.sub(r'<\?xml[^>]*\?>', '', svg)
     svg = re.sub(r'<!DOCTYPE[^>]*>', '', svg)
-    match = re.search(r'<svg[^>]*>(.*)</svg>', svg, re.S)
-    return match.group(1) if match else svg
 
-def make_static(svg):
-    # Reveal groups that are hidden only because of the original
-    # line-by-line SMIL animation.
-    svg = re.sub(
-        r'<g\s+opacity="0"\s*>',
-        '<g opacity="1">',
-        svg
-    )
+    match = re.search(r'<svg\b([^>]*)>(.*)</svg>\s*$', svg, re.S)
+    if not match:
+        raise ValueError(f"Invalid SVG: {path}")
 
-    # Remove the animation elements from the embedded copy.
-    svg = re.sub(
-        r'<animate\b[^>]*/>',
-        '',
-        svg,
-        flags=re.S
-    )
+    attrs = match.group(1)
+    content = match.group(2)
 
-    svg = re.sub(
-        r'<animate\b[^>]*>.*?</animate>',
-        '',
-        svg,
-        flags=re.S
-    )
+    def attr(name, default=None):
+        m = re.search(rf'\b{name}="([^"]*)"', attrs)
+        return m.group(1) if m else default
 
-    return svg
+    return {
+        "width": attr("width"),
+        "height": attr("height"),
+        "viewBox": attr("viewBox"),
+        "content": content,
+    }
 
-portrait_inner = inner(portrait)
-neofetch_inner = make_static(inner(neofetch))
 
-out = """<svg xmlns="http://www.w3.org/2000/svg"
+portrait = parse_svg("assets/portrait/portrait.svg")
+neofetch = parse_svg("assets/cards/neofetch.svg")
+
+out = f'''<svg xmlns="http://www.w3.org/2000/svg"
      width="1000"
      height="650"
      viewBox="0 0 1000 650">
@@ -60,16 +49,32 @@ out = """<svg xmlns="http://www.w3.org/2000/svg"
 <line x1="20" y1="48" x2="980" y2="48"
       stroke="#30363D"/>
 
-<g transform="translate(25 65) scale(0.78)">
-""" + portrait_inner + """
-</g>
+<!-- ASCII portrait -->
+<svg x="25"
+     y="65"
+     width="450"
+     height="433.5"
+     viewBox="{portrait["viewBox"]}"
+     preserveAspectRatio="xMidYMid meet">
 
-<g transform="translate(500 75) scale(0.86)">
-""" + neofetch_inner + """
-</g>
+{portrait["content"]}
 
 </svg>
-"""
+
+<!-- Neofetch -->
+<svg x="500"
+     y="65"
+     width="450"
+     height="433.5"
+     viewBox="{neofetch["viewBox"]}"
+     preserveAspectRatio="xMidYMid meet">
+
+{neofetch["content"]}
+
+</svg>
+
+</svg>
+'''
 
 Path("assets/cards/whoami.svg").write_text(out)
-print("Generated static assets/cards/whoami.svg")
+print("Generated assets/cards/whoami.svg")
