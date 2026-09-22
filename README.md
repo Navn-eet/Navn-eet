@@ -47,7 +47,7 @@
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 <img
   src="./assets/portrait/portrait.svg"
@@ -57,7 +57,7 @@
 
 </td>
 
-<td width="55%" valign="top">
+<td width="50%" valign="middle" align="center">
 
 <img
   src="./assets/cards/neofetch.svg"
@@ -69,8 +69,6 @@
 
 </tr>
 </table>
-
-</div>
 
 <br>
 
