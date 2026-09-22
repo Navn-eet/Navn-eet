@@ -4,13 +4,15 @@
 
 ### Software Engineer
 
-**Backend · Distributed Systems · Infrastructure · DevOps**
+`Full Stack` · `Backend` · `Infrastructure` · `DevOps`
 
 <br>
 
 <a href="https://www.linkedin.com/in/navneet-verma-987bb9257/">LinkedIn</a>
-  ·   <a href="https://github.com/Navn-eet">GitHub</a>
-  ·   <a href="mailto:vnavneet631@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Navn-eet">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:vnavneet631@gmail.com">Email</a>
 
 </div>
 
@@ -22,12 +24,13 @@
 
 <div align="center">
 
-### Building software from application code to production infrastructure.
+<h3><code>navneet@github ~ $ ./contributions.sh</code></h3>
 
-<br>
-
-I work primarily on backend systems, databases, distributed processing, <br>
-infrastructure, integrations, and the systems that keep applications running reliably.
+<img
+  src="./assets/activity/contributions.svg"
+  width="860"
+  alt="GitHub contribution history"
+/>
 
 </div>
 
@@ -35,67 +38,88 @@ infrastructure, integrations, and the systems that keep applications running rel
 
 ---
 
-## What I Work With
+<br>
+
+<div align="center">
+
+<h3><code>navneet@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
+<img
+  src="./assets/portrait/portrait.svg"
+  width="100%"
+  alt="ASCII portrait of Navneet Verma"
+/>
+
+</td>
+
+<td width="55%" valign="top">
+
+<img
+  src="./assets/cards/neofetch.svg"
+  width="100%"
+  alt="Neofetch-style information card"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
+
+---
+
+## `navneet@github ~ $ cat toolbox`
 
 <div align="center">
 
 ### BUILD
 
+`TypeScript` · `JavaScript` · `Node.js` · `NestJS`  
+`React` · `Next.js` · `REST APIs` · `Webhooks`
+
 <br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js">
-
-<br><br>
-
-<sub>TypeScript · JavaScript · Node.js · NestJS · React · Next.js</sub>
-
-<br><br><br>
 
 ### DATA
 
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drizzle/drizzle-original.svg" width="48" height="48" alt="Drizzle ORM" title="Drizzle ORM">
-
-<br><br>
-
-<sub>PostgreSQL · MongoDB · Redis · Drizzle ORM · SQL</sub>
-
-<br><br><br>
-
-### RUN
+`PostgreSQL` · `MongoDB` · `Redis` · `Drizzle ORM`  
+`Database Modeling` · `Query Optimization` · `SQL`
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" title="GitLab">
+### DISTRIBUTED SYSTEMS
 
-<br><br>
+`BullMQ` · `Transactional Outbox` · `Dead Letter Queues`  
+`Event-Driven Systems` · `Background Jobs` · `Retries`  
+`Idempotency` · `Backpressure` · `Distributed Locks`
 
-<sub>Docker · Docker Compose · Linux · VPS · Nginx · GitLab CI/CD</sub>
+<br>
+
+### INFRASTRUCTURE
+
+`Docker` · `Docker Compose` · `Linux` · `VPS`  
+`Nginx` · `SSL/TLS` · `DNS` · `Reverse Proxy`
+
+<br>
+
+### CI/CD & TESTING
+
+`GitLab CI/CD` · `Jest` · `Unit Testing`  
+`Integration Testing` · `End-to-End Testing` · `Database Testing`
+
+<br>
+
+### INTEGRATIONS
+
+`S3-Compatible Storage` · `Firebase FCM` · `Resend`  
+`SMTP` · `SMS Gateways` · `Third-Party APIs`
 
 </div>
 
@@ -103,136 +127,113 @@ infrastructure, integrations, and the systems that keep applications running rel
 
 ---
 
-## Systems
+## `navneet@github ~ $ ls ./work`
 
-I work with the parts of an application that become important once there is real
-data, background work, failures, and production infrastructure involved.
+### SkoolSewa
 
-<br>
+School management platform covering administration, academics,
+attendance, communication, assignments, examinations, student management,
+and supporting infrastructure.
 
-**Distributed Processing**
-
-`BullMQ` · `Transactional Outbox` · `Dead Letter Queues` · `Event-Driven Systems`
-
-**Reliability**
-
-`Retries` · `Idempotency` · `Backpressure` · `Distributed Locks` · `Job Scheduling`
-
-**Data & Performance**
-
-`Database Modeling` · `Query Optimization` · `Redis Caching` · `Cache Invalidation`
-
-**Application**
-
-`REST APIs` · `Webhooks` · `Server-Side Applications` · `Third-Party Integrations`
-
-**Testing**
-
-`Jest` · `Unit Testing` · `Integration Testing` · `End-to-End Testing` · `Database Testing`
+`TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Redis` · `BullMQ` · `Docker`
 
 <br>
 
----
+### WordUnscramble.ai
 
-## Infrastructure
+Web application focused on word discovery and search workflows.
 
-<div align="center">
+`TypeScript` · `Next.js` · `Node.js` · `PostgreSQL`
 
-```text
-Application
-     │
-     ├──────────── API
-     │
-     ├──────────── Background Workers
-     │
-     ├──────────── Queues & Events
-     │
-     └──────────── Integrations
-                    │
-              ┌─────┴─────┐
-              │           │
-          PostgreSQL     Redis
-              │           │
-              └─────┬─────┘
-                    │
-                 Docker
-                    │
-              Linux / VPS
-                    │
-              Nginx / SSL
-                    │
-                Production
-```
+<br>
 
-</div>
+### CRM & Content Management Platform
 
-Docker · Docker Compose · Linux · VPS · Nginx · SSL/TLS · DNS · Reverse Proxy · Server Configuration
+Full-stack platform covering application workflows, backend services,
+content management, integrations, and deployment.
+
+`TypeScript` · `Next.js` · `Node.js` · `Payload CMS` · `PostgreSQL`
+
+<br>
+
+### Shopit Nepal
+
+E-commerce application with product, customer, and backend application
+workflows.
+
+`Node.js` · `TypeScript` · `PostgreSQL` · `Redis`
 
 <br>
 
 ---
 
-## More in the Stack
+## `navneet@github ~ $ cat experience`
 
-<div align="center">
+**Full Stack Engineer — Nomor LLC / Protozoa Host**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="38" height="38" alt="Jest" title="Jest">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" title="Firebase">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/payload/payload-original.svg" width="38" height="38" alt="Payload CMS" title="Payload CMS">
+Kathmandu, Nepal · Jun 2025 — Present
 
-<br><br>
+Working across full-stack applications, backend services, databases,
+integrations, infrastructure, deployments, debugging, and production
+maintenance.
 
-<sub>
-HTML5 · CSS3 · Tailwind CSS · Jest · Firebase FCM · Payload CMS
-</sub>
-
-<br><br>
-
-<sub>
-S3-Compatible Storage · Resend · SMTP · SMS Gateways · Fumadocs · SEO ·
-Content Management Systems · Web Analytics · A/B Testing
-</sub>
-
-</div>
+- Backend APIs and application architecture
+- PostgreSQL, MongoDB, Redis and database design
+- Background processing with BullMQ
+- Transactional outbox and dead-letter queue patterns
+- Authentication and third-party integrations
+- Docker-based deployments
+- Linux, VPS, Nginx, SSL and DNS configuration
+- GitLab CI/CD
+- Testing and production debugging
+- Working within and extending existing codebases
 
 <br>
 
 ---
 
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Navn-eet/Navn-eet/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity">
-</picture>
-
-<br>
-
----
-
-## Education
+## `navneet@github ~ $ cat education`
 
 **BSc (Hons) Computer Science**
+
 Herald College Kathmandu · University of Wolverhampton
+
 Expected 2027
 
 <br>
 
+---
+
+## `navneet@github ~ $ ./cv`
+
 <div align="center">
 
-<a href="https://github.com/Navn-eet">github.com/Navn-eet</a>
+<a href="./assets/Navneet-Verma-CV.pdf">
+
+**[ DOWNLOAD CV ]**
+
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+`navneet@github ~ $ exit`
 
 <br><br>
 
-<sub>Building reliable software from application code to production infrastructure.</sub>
+<a href="https://github.com/Navn-eet">github.com/Navn-eet</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/navneet-verma-987bb9257/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:vnavneet631@gmail.com">Email</a>
+
+<br><br>
+
+<sub>Software Engineer · Backend · Infrastructure · DevOps</sub>
 
 </div>
