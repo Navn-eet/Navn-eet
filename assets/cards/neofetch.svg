@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520"
+     height="500"
+     viewBox="0 0 520 500"
+     role="img"
+     aria-label="Navneet Verma profile information">
+
+<style>
+  .label {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    font-weight: 600;
+    fill: #69B7FF;
+  }
+
+  .value {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    fill: #D7E0EA;
+  }
+
+  .command {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 13px;
+    fill: #7F91A5;
+  }
+
+  .prompt {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 11px;
+    fill: #6EE7A0;
+  }
+</style>
+
+<rect x="1" y="1"
+      width="518"
+      height="498"
+      rx="14"
+      fill="#0B1118"
+      stroke="#263342"/>
+
+<circle cx="24" cy="25" r="5" fill="#FF6B6B"/>
+<circle cx="42" cy="25" r="5" fill="#FFD166"/>
+<circle cx="60" cy="25" r="5" fill="#6EE7A0"/>
+
+<text x="82" y="30" class="command">
+  navneet@github ~ $ neofetch
+</text>
+
+<line x1="20" y1="48" x2="500" y2="48"
+      stroke="#263342"/>
+
+<text x="24" y="75" class="label">Name</text>
+<text x="145" y="75" class="value">Navneet Verma</text>
+<text x="24" y="96" class="label">Role</text>
+<text x="145" y="96" class="value">Software Engineer</text>
+<text x="24" y="117" class="label">Focus</text>
+<text x="145" y="117" class="value">Full Stack / Backend / Infra / DevOps</text>
+<text x="24" y="138" class="label">Experience</text>
+<text x="145" y="138" class="value">~3 years</text>
+<text x="24" y="159" class="label">Runtime</text>
+<text x="145" y="159" class="value">Node.js / TypeScript / NestJS</text>
+<text x="24" y="180" class="label">Frontend</text>
+<text x="145" y="180" class="value">React / Next.js / Tailwind</text>
+<text x="24" y="201" class="label">Data</text>
+<text x="145" y="201" class="value">PostgreSQL / MongoDB / Redis</text>
+<text x="24" y="222" class="label">ORM</text>
+<text x="145" y="222" class="value">Drizzle ORM</text>
+<text x="24" y="243" class="label">Queues</text>
+<text x="145" y="243" class="value">BullMQ / Outbox / DLQ</text>
+<text x="24" y="264" class="label">Systems</text>
+<text x="145" y="264" class="value">Retries / Idempotency / Locks</text>
+<text x="24" y="285" class="label">Caching</text>
+<text x="145" y="285" class="value">Redis / Cache Invalidation</text>
+<text x="24" y="306" class="label">Testing</text>
+<text x="145" y="306" class="value">Jest / Unit / Integration / E2E</text>
+<text x="24" y="327" class="label">Infra</text>
+<text x="145" y="327" class="value">Docker / Linux / VPS / Nginx</text>
+<text x="24" y="348" class="label">Network</text>
+<text x="145" y="348" class="value">SSL / TLS / DNS / Reverse Proxy</text>
+<text x="24" y="369" class="label">CI/CD</text>
+<text x="145" y="369" class="value">GitLab CI/CD</text>
+<text x="24" y="390" class="label">Integrations</text>
+<text x="145" y="390" class="value">FCM / Resend / SMTP / SMS</text>
+<text x="24" y="411" class="label">CMS</text>
+<text x="145" y="411" class="value">Payload CMS / Fumadocs</text>
+<text x="24" y="432" class="label">Projects</text>
+<text x="145" y="432" class="value">SkoolSewa / WordUnscramble</text>
+<text x="24" y="453" class="label">Education</text>
+<text x="145" y="453" class="value">BSc Computer Science / 2027</text>
+
+<text x="24" y="477" class="prompt">
+  navneet@github ~ $ _
+</text>
+
+</svg>
