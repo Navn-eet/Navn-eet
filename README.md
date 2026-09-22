@@ -51,7 +51,7 @@
 
 <img
   src="./assets/portrait/portrait.svg"
-  width="100%"
+  width="520"
   alt="ASCII portrait of Navneet Verma"
 />
 
